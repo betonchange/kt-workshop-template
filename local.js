@@ -56,7 +56,7 @@ var duration = moment.duration(between_now_and_event).minutes();
 const marquee_message =
   `<li id="xkcd"><marquee>
 
-${days_to_event} Days till Trump's regime ends IF YOU VOTE. IF NOT, (${days_to_event}+1460) Days. Go Vote.
+${days_to_event} Days till Trump's regime ends IF YOU VOTE. IF NOT, (${days_to_event}+1460) Days. GO VOTE.
 
   </marquee></li>`;
 
